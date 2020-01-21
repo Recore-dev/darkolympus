@@ -1,0 +1,4 @@
+displayName = Dark Olympus
+author = ReCore
+version = 0.1
+homepage = https://discord.gg/PddxP3x
